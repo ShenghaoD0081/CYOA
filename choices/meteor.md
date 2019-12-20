@@ -1,2 +1,2 @@
-# ```Your school lunchroom was struck with a meteor and you died.```
+# ```Your school lunchroom and changing room was struck with a meteor, you died.```
 # GAME OVER
